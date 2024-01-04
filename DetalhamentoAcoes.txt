@@ -1,0 +1,22 @@
+- O que queremos fazer?
+	programa que organize dados financeiros dividos em 6 temas
+
+- quais são os temas?
+	Alimentos/saude, Transporte/Veículo, vestimento, casa, lazer, social
+
+- o que o programa tem que fazer?
+	retornar um arquivo excel com o extrato detalhado de onde foram os gastos do usuário
+	programa tem que ser um dashboard para o cliente
+	cliente tem que preencher um forms (em html) para preenchimento de dados
+	dados ficam salvos por tempo indeterminado.
+	usuário tem de colocar remuneração mensal 
+	inserção de gastos (Valor), data, qual tema, e pequena descrição.
+	adição de meta(S) (adicionar valor, alterar valor, descrição)
+	login de usuários
+	disponibilizar em web, mobille (Android)
+	definir % de gasto para cada tema (OS 6 TEM QUE <= salario base (caso seja maior, alertar));
+	
+
+
+	
+
